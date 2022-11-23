@@ -1,1 +1,1 @@
-# MiniProj1
+# SpaAngular
